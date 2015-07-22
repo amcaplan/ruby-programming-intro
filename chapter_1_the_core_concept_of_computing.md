@@ -155,7 +155,9 @@ Modeling is the bridge between computer-speak and the human understanding of the
 
 ## Wrapping Up
 Let's quickly sum up what we've learned in this chapter.
-* Computers are, at their essence, only capable of taking in ***data*** and executing ***instructions*** related to that data.
+* Computers are only capable of taking in ***data*** and executing ***instructions*** related to (and possibly modifying) that data.
 * We don't need to teach computers anything.  We just feed them data and tell them what to do with it.
 * ***Algorithms*** are the expression of a coherent task as a set of simple instructions.
-* Through ***modeling***, we bridge the gap between what computers understand and what we need them to do.
+* Through ***modeling***, we bridge the gap between what computers understand and what humans need them to do.
+
+We've covered a lot of ground already!  In the next chapter, we'll move on from this theoretical stuff and start actually writing some code.
