@@ -141,7 +141,7 @@ This is the wonderful, dirty little secret about programming.  We never actually
 
 #### Putting It All Together
 
-We in the programming community have a word for this play-acting: Modeling.  We take a real-world problem and create a model system in our program which mimics the actual things that are happening.
+We in the programming community have a word for this play-acting: *Modeling*.  We take a real-world problem and create a model system in our program which mimics the actual things that are happening.
 
 Sometimes, our goal is to push the model forward and see what happens.  Perhaps we are writing a chemistry program that models molecules, and we want to see what happens under certain conditions.
 
