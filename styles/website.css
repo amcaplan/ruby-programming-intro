@@ -1,1 +1,7 @@
 /* CSS for website */
+body {
+    background-color: eeeeee;
+}
+blockquote {
+    background-color: rgba(208, 191, 164, 0.54);
+}
