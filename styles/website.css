@@ -2,7 +2,7 @@
 .book-body {
     background-color: eeeeee;
 }
-blockquote {
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
     background-color: rgba(208, 191, 164, 0.54);
-    border-left: thick solid #cc0044;
+    border-left: thick solid #bb2f3f;
 }
