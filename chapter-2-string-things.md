@@ -12,3 +12,26 @@ Well, not really. In the daily grind of most programmers, you do very little mat
 Even if math is your forté, and you're planning to write hardcore math or science programs, or dive deep into hardware, I still think you should start with Strings. Strings are the interface between our programs and the people who use them. Any time you want to take input from a user, or output information to the user, it will be in the form of a String. And I want to make it *extremely* clear that nothing you do in programming will be remotely useful unless someone, a real living person, can use it.
 
 Math may or may not be useful, depending on your domain. But you will always need the humble String. Make sure it's a friend, and a good one at that.
+
+## Your First Program
+
+Congratulations! You've made it to the traditional first exercise, the point in the book where I show you how to write a program that outputs the String, `"Hello World!"`  In some languages, this is a big deal. In Ruby, it's pretty straightforward.
+
+First, you'll want to make sure you have access to a running Ruby environment.  You can follow the instructions in Appendix A (_Installing Ruby_), or Google to find an up-to-date tutorial. Once Ruby is installed, open up your command line (Terminal in Mac OS X, DOS Prompt in Windows), type `irb`, and press `Enter`. If you want to take a shortcut for now (but just for now!), head over to [repl.it](http://repl.it), where you can try out lots of different programming languages right from your browser. For now, just choose Ruby.
+
+Here is your first program. Make sure to type it exactly, character by character.
+
+```ruby
+puts "Hello World!"
+```
+
+Your output should look something like this:
+
+```ruby
+2.3.0 :001 > puts "Hello World!"
+Hello World!
+ => nil 
+```
+
+Whoa, there's a lot going on there! Let's break it down.
+
