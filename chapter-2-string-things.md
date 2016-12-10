@@ -44,6 +44,10 @@ Your program itself has 2 parts:
 
 `puts` is how you tell Ruby to output text to the command line. `"Hello World!"` is a String. In Ruby, Strings are bits of text surrounded by either double quotes (`"`) or single quotes (`'`).<a href="#endnote1"><sup>1</sup></a>
 
+The last line looks pretty weird, right? When you run IRB, you get a little extra insight into your program. In this case, you're seeing the **return value** of `puts`.
+
+Every command in Ruby returns something when it's done executing. In the case of `puts`, it does its job—printing out what you told it to output—and then returns `nil`, which is a fancy way of saying nothing. As we go on, you'll see that many commands will return much more than that, often giving us useful information we can use for something else.
+
 <hr />
 
 ### Chapter Notes
