@@ -37,3 +37,9 @@ Whoa, there's a lot going on there! Let's break it down.
 
 First, we have the current version of Ruby (in my case, `2.3.0`, but don't worry if yours is different) and a line number (`001` because it's the first line of the program). Then there's a `>` which tells you that you can start typing!
 
+Your program itself has 2 parts:
+
+1. The command `puts`
+2. The String `"Hello World!"`
+
+`puts` is how you tell Ruby to output text to the command line. `"Hello World!"` is a String. In Ruby, Strings are bits of text surrounded by either double quotes (`"`) or single quotes (`'`). 
