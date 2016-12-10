@@ -52,6 +52,10 @@ Before we move on, I want you to notice something supremely important. Our first
 
 Let's look at some more instructions we can use on Strings.
 
+## Getting Our Strings to Talk
+
+## Forming New Strings
+
 <hr />
 
 ### Chapter Notes
