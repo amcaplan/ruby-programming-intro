@@ -50,6 +50,8 @@ Every command in Ruby returns something when it's done executing. In the case of
 
 Before we move on, I want you to notice something supremely important. Our first program was pretty short, but it contained two concepts we've referenced before: data (the String `"Hello World!"`) and instructions (the command `puts`). In any program that you write, just about every line will take some kind of data, then do something with it using instructions.
 
+Let's look at some more instructions we can use on Strings.
+
 <hr />
 
 ### Chapter Notes
