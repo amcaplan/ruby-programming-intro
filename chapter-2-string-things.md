@@ -11,4 +11,4 @@ Well, not really. In the daily grind of most programmers, you do very little mat
 
 Even if math is your forté, and you're planning to write hardcore math or science programs, or dive deep into hardware, I still think you should start with Strings. Strings are the interface between our programs and the people who use them. Any time you want to take input from a user, or output information to the user, it will be in the form of a String. And I want to make it *extremely* clear that nothing you do in programming will be remotely useful unless someone, a real living person, can use it.
 
-Math may or may not be useful, depending on your domain. But you will always need the humble String. Make sure it's a good friend.
+Math may or may not be useful, depending on your domain. But you will always need the humble String. Make sure it's a friend, and a good one at that.
