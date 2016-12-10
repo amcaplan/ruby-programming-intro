@@ -51,4 +51,6 @@ Every command in Ruby returns something when it's done executing. In the case of
 <hr />
 
 ### Chapter Notes
-<sup id="endnote1">1</sup>Make sure you're not writing your code in a fancy program like Microsoft Word, which will turn your quotes into "smart quotes" (`‘’` and `“”`). Ruby doesn't know what those are, so it won't treat them as things which mark off a String, and your program will probably fail to run! A simple editor like Notepad (for Windows) or TextEdit (for Mac OS X) will do, but you'll be amazed at how much easier it is to write code with a dedicated text editor. My first text editor was SublimeText (which you can download [here](https://www.sublimetext.com/)), and I highly recommend it when you're starting out.
+<sup id="endnote1">1</sup>Make sure you're not writing your code in a fancy program like Microsoft Word, which will turn your quotes into "smart quotes" (`‘’` and `“”`). Ruby doesn't know what those are, so it won't treat them as things which mark off a String, and your program will probably fail to run!
+
+A simple editor like Notepad (for Windows) or TextEdit (for Mac OS X) will do, but you'll be amazed at how much easier it is to write code with a dedicated text editor. My first text editor was SublimeText (which you can download free [here](https://www.sublimetext.com/)), and I highly recommend it when you're starting out.
