@@ -42,4 +42,9 @@ Your program itself has 2 parts:
 1. The command `puts`
 2. The String `"Hello World!"`
 
-`puts` is how you tell Ruby to output text to the command line. `"Hello World!"` is a String. In Ruby, Strings are bits of text surrounded by either double quotes (`"`) or single quotes (`'`). Make sure you're not writing your code in a fancy program like Microsoft Word, which will turn your quotes into "smart quotes" (`‘’` and `“”`). Ruby doesn't know what those are, so it won't treat them as things which mark off a String, and your program will probably fail to run!
+`puts` is how you tell Ruby to output text to the command line. `"Hello World!"` is a String. In Ruby, Strings are bits of text surrounded by either double quotes (`"`) or single quotes (`'`).<a href="#endnote1"><sup>1</sup></a>
+
+<hr />
+
+### Chapter Notes
+<sup id="endnote1">1</sup>Make sure you're not writing your code in a fancy program like Microsoft Word, which will turn your quotes into "smart quotes" (`‘’` and `“”`). Ruby doesn't know what those are, so it won't treat them as things which mark off a String, and your program will probably fail to run! A simple editor like Notepad (for Windows) or TextEdit (for Mac OS X) will do, but you'll be amazed at how much easier it is to write code with a dedicated text editor. My first text editor was SublimeText (which you can download [here](https://www.sublimetext.com/)), and I highly recommend it when you're starting out.
