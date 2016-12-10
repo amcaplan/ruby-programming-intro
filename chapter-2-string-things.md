@@ -48,6 +48,8 @@ The last line looks pretty weird, right? When you run IRB, you get a little extr
 
 Every command in Ruby returns something when it's done executing. In the case of `puts`, it does its job—printing out what you told it to output—and then returns `nil`, which is a fancy way of saying nothing. As we go on, you'll see that many commands will return much more than that, often giving us useful information we can use for something else.
 
+Before we move on, I want you to notice something supremely important. Our first program was pretty short, but it contained two concepts we've referenced before: data (the String `"Hello World!"`) and instructions (the command `puts`).
+
 <hr />
 
 ### Chapter Notes
