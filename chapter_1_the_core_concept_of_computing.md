@@ -15,8 +15,9 @@ In this chapter, we will introduce one simple concept which lies at the core of 
 The idea is this.
 
 > Computers understand 2 things:
-1. Data
-2. Instructions.
+
+> 1. Data
+> 2. Instructions.
 
 Computers are pretty dumb machines at the heart of it all.  Way down deep, they have information stored as sets of 1s and 0s (often better thought of as on/off), and they can be told to flip those back and forth.  That's it.
 
@@ -69,7 +70,7 @@ Starting from the right, consider each pair of numbers.  Then apply the followin
 Since we will have cases where the 1 is carried, let's write the rules for those scenarios too:
 
 <ol start="4">
-  <li>If it's 1, 0, and 0, the number in our result will be 0.</li>
+  <li>If it's 1, 0, and 0, the number in our result will be 1.</li>
   <li>If it's 1, 0, and 1, or 1, 1, and 0, the number in our result will be 0, and the next column gets an extra 1 to consider.</li>
   <li>If it's 1, 1, and 1, the number in our result will be 1, and the next column gets an extra 1 to consider.</li>
 </ol>
